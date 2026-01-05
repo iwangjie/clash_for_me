@@ -1,0 +1,12 @@
+# NAME: Custom_Proxy
+# 强制代理列表，来自个人收集
+
+# EA Desktop 云同步
+# DOMAIN-SUFFIX,linux.do
+
+# GooglePlay 相关
+# DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+# DOMAIN-SUFFIX,services.googleapis.cn
+
+# PS5 STUN
+DOMAIN-SUFFIX,stun.playstation.net
